@@ -2,7 +2,7 @@ import {Component} from '@angular/core';
 
 @Component({
   selector: 'first-component',
-  template: `<p> Meu primeiro componente com Angular </p>`
+  template: `<h1> Meu primeiro componente com Angular - adasdasdkasjfsafdsf </h1>`
 })
 
 export class MyFirstComponent {}
